@@ -1,0 +1,260 @@
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.Cache
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\fluidsynth.dll
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.pdb
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\FluidSynthWrapper.dll
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.pdb
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Alaska.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csprojResolveAssemblyReference.cache
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Fingered_bass_One.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\GOOD_DRUMS_6.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\5_Jazz_Guitar.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\HS Strings.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\361_Electric_Piano_Verby.SF2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_Hot_Saxophone_VS!.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_mute_Trumpet.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_U20_Trombone_VS.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\463_Tenor_Sax_1.sf2
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.frmMusicMaker.resources
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.manifest
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.application
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe.manifest
+D:\Data\Applications\visual studio 2012\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.frmMusicMaker.resources
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.Cache
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.pdb
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Alaska.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Fingered_bass_One.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\GOOD_DRUMS_6.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\5_Jazz_Guitar.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\HS Strings.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\361_Electric_Piano_Verby.SF2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_Hot_Saxophone_VS!.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_mute_Trumpet.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_U20_Trombone_VS.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\463_Tenor_Sax_1.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\fluidsynth.dll
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.pdb
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\FluidSynthWrapper.dll
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\JR_voice2.sf2
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csprojResolveAssemblyReference.cache
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.TrustInfo.xml
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (support and software dev)\Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Alaska.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Fingered_bass_One.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\GOOD_DRUMS_6.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\5_Jazz_Guitar.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\HS Strings.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\361_Electric_Piano_Verby.SF2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_Hot_Saxophone_VS!.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_mute_Trumpet.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_U20_Trombone_VS.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\463_Tenor_Sax_1.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\JR_voice2.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.pdb
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\FluidSynthWrapper.dll
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csprojResolveAssemblyReference.cache
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.frmMusicMaker.resources
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.Cache
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.TrustInfo.xml
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.pdb
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\fluidsynth.dll
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\visual studio 2015\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.config
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\fluidsynth.dll
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\FluidSynthWrapper.dll
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Alaska.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\1115_Fingered_bass_One.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\GOOD_DRUMS_6.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\5_Jazz_Guitar.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\HS Strings.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\361_Electric_Piano_Verby.SF2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_Hot_Saxophone_VS!.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_mute_Trumpet.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\198_U20_Trombone_VS.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\463_Tenor_Sax_1.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\SoundFonts\JR_voice2.sf2
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.config
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\bin\Debug\MusicMaker.pdb
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csprojResolveAssemblyReference.cache
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.frmMusicMaker.resources
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.Properties.Resources.resources
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.Cache
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.TrustInfo.xml
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe.manifest
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.application
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.exe
+D:\Data\Other\_projects\IT (Support, Software Dev, PC)\_Original content by Jevan\_Applications\vs2017\Projects\MusicMaker\MusicMaker\obj\Debug\MusicMaker.pdb
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\fluidsynth.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\FluidSynthWrapper.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\1115_Alaska.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\1115_Fingered_bass_One.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\GOOD_DRUMS_6.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\5_Jazz_Guitar.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\HS Strings.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\361_Electric_Piano_Verby.SF2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\198_Hot_Saxophone_VS!.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\198_mute_Trumpet.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\198_U20_Trombone_VS.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\463_Tenor_Sax_1.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\SoundFonts\JR_voice2.sf2
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\MusicMaker.csprojResolveAssemblyReference.cache
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\MusicMaker.frmMusicMaker.resources
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\MusicMaker.csproj.GenerateResource.cache
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\MusicMaker.csproj.CoreCompileInputs.cache
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\MusicMaker.csproj.CopyComplete
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Kinect.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\NAudio.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Kinect.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\NAudio.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Switzlyphone.exe.config
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Switzlyphone.exe.manifest
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Switzlyphone.application
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Switzlyphone.exe
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Switzlyphone.pdb
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\netstandard.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.AppContext.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Collections.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Collections.Specialized.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ComponentModel.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Console.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Data.Common.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Globalization.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.Compression.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.FileSystem.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.Pipes.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Linq.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Linq.Expressions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Linq.Parallel.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Linq.Queryable.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Http.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.NameResolution.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Ping.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Requests.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Security.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.Sockets.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Net.WebSockets.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ObjectModel.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reflection.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Resources.Reader.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Resources.Writer.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Handles.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Claims.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.Principal.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Security.SecureString.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Text.Encoding.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Tasks.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Thread.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Timer.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.ValueTuple.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.XDocument.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.XPath.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Kinect.ReactiveV2.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.Endpoint.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.Protocol.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Interactive.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Core.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Linq.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.Common.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Gestures.Endpoint.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Interactive.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Core.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.Linq.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.Properties.Resources.resources
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.TrustInfo.xml
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.exe.manifest
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.application
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.exe
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\obj\Debug\Switzlyphone.pdb
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Custom Controls.dll
+C:\Users\vr\Music\musicMaker-master\src\MusicMaker\bin\Debug\Custom Controls.pdb

@@ -1,0 +1,18 @@
+<definition bass1 1115_Fingered_bass_One.sf2>
+	<chanceOfSemibreve>0.5</chanceOfSemibreve>
+</definition>
+
+<definition bass2 1115_Fingered_bass_One.sf2>
+</definition>
+
+<section 0 0.1>
+	<bass1/>
+	<drums1/>
+</section>
+
+<section 1 0.9>
+	<bass1/>
+	<drums1/>
+	<synth1/>
+</section>
+
